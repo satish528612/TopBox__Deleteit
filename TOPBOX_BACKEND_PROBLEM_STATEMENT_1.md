@@ -5,6 +5,12 @@
 The API schema is explained in the README.  
 You can run everything via Docker. You can also run the flask app locally.
 
+## Cloning the Repo
+
+Please do not "fork" the repo using the Github Fork feature. 
+Instead, import this project via the [Import a Repository feature](https://github.com/new/import). 
+Use this for the Import URL: `https://github.com/topbox-rci/topbox-backend-takehome-test.git`
+
 ## Problem Statement
 
 Currently, I can only return all interactions via the `/interactions` endpoint. This could potentially cause data breaches by mixing multiple engagements-worth of data together!
@@ -19,9 +25,9 @@ Requirements:
 
 1. The goal for this take-home test is to show us you can do research and add functionality to a REST service.  
 1. Unit tests are not needed.  
-1. There is no need to add any new funtionality to the exisiting endpoints
+1. There is no need to add any new functionality to the existing endpoints
 
 ## Turning in your work
 
-1. Fork the publicly-available Github repo.
-2. Email the engineer who sent you the problem statement with a link to your forked repo, containing the necessary changes for this feature.
+1. Copy the publicly-available Github repo (per the instructions above).
+2. Email the engineer who sent you the problem statement with a link to your repo, containing the necessary changes for this feature.
