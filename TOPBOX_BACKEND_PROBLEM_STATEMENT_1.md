@@ -25,7 +25,7 @@ Requirements:
 
 1. The goal for this take-home test is to show us you can do research and add functionality to a REST service.  
 1. Unit tests are not needed.  
-1. There is no need to add any new functionality to the existing endpoints
+1. There is no need to add new functionality to other endpoints (the focus is adding new functionality to `/interactions`)
 
 ## Turning in your work
 
