@@ -13,7 +13,7 @@ Use this for the Import URL: `https://github.com/topbox-rci/topbox-backend-takeh
 
 ## Problem Statement
 
-Currently, I can only return all interactions via the `/interactions` endpoint. This could potentially cause data breaches by mixing multiple engagements-worth of data together!
+Currently, I can only return _all_ interactions via the `/interactions` endpoint.
 
 As a consumer of our Export API, I need to filter `Interaction` data by `engagementId` and `interactionDate`.
 
